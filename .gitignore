@@ -1,6 +1,7 @@
 # Sensitive configuration files
 .env
 Snapconnect/app.yaml
+Snapconnect_web/src/constants.js
 
 # Build outputs
 bin/
